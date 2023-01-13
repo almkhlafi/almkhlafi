@@ -30,9 +30,5 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Almkhlafi&label=Profile%20Views&color=12&icon=5&pretty=true" />
-</a>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almkhlafi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almkhlafi&repo=github-readme-stats)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/almkhlafi/BikeBooking.git))
