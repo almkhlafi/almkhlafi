@@ -35,11 +35,4 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 </a>
 
 
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?
-          name=almkhlafi&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=almkhlafi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
