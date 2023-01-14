@@ -12,7 +12,7 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 
 ![]([https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false))<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafi&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafi&layout=compact=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=almkhlafi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
