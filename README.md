@@ -10,7 +10,7 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&show_icons=true)
 
-![]([https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false))<br/>
+![]([https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&hide_border=false&include_all_commits=false&count_private=false))
 ![](https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafi&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
