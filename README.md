@@ -20,8 +20,7 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=almkhlafi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
- I code while you are sleeping.
+### ✍️ <p style=" font-style: italic;color:#96D4D4;font-size:20px; ">I code while you are sleeping.</p>
 
 
 
