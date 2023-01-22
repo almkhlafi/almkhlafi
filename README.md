@@ -21,7 +21,7 @@ I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for t
 ![](https://github-profile-trophy.vercel.app/?username=almkhlafi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-## I code while you are sleeping.
+ I code while you are sleeping.
 
 
 
