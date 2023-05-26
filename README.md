@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for talented people that are interested in programming<br>I'm Currently learning Desktop/Mobile App Development.<br>Ask me about C/C++, C#, Java, JavaScript, HTML5 & CSS Oracle DataBases.<br>
+I'm Currently an Undergraduate Computer Engineering Student<br>I'm Looking for talented people that are interested in programming<br>I'm Currently learning Desktop/Mobile App Development.<br>Ask me about C/C++, C#, Java, JavaScript, HTML5 & CSS Oracle & MySql DataBase.<br>
 
 
 ## 🌐 Socials:
