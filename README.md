@@ -29,3 +29,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake gif](https://github.com/almkhlafi/almkhlafi/blob/output/github-contribution-grid-snake.gif)
