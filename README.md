@@ -28,5 +28,7 @@
 [![](https://visitcount.itsvg.in/api?id=Almkhlafi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Contributions
 
-![snake gif](https://github.com/almkhlafi/almkhlafi/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/almkhlafi/almkhlafi/output/github-contribution-grid-snake.svg?raw=true)
+
