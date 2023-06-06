@@ -17,7 +17,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=almkhlafi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-#### <p>💻  I code while you are sleeping.</p> 
+#### <p>💻 Dream it. Chase it. Code it...</p> 
 
 
 
