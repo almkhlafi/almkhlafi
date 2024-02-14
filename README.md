@@ -1,15 +1,16 @@
 ## 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&show_icons=true&hide_border=true" alt="Anurag's GitHub stats">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&show_icons=true&hide_border=true" alt="Anurag's GitHub stats" style="height: 200px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafi&theme=dark&layout=compact&hide_border=true" alt="Top Langs" style="height: 200px;">
+  </a>
 </p>
 
+
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almkhlafi&theme=dark&layout=compact&hide_border=true" alt="Top Langs">
-  </a>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=true" alt="GitHub Streak">
+ 
 </p>
 
 ---
