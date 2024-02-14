@@ -1,4 +1,3 @@
-## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=almkhlafi&theme=dark&show_icons=true&hide_border=true" alt="Anurag's GitHub stats" style="height: 200px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -6,33 +5,10 @@
   </a>
 </p>
 
-
-
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=true" alt="GitHub Streak">
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almkhlafi&theme=dark&hide_border=true" alt="GitHub Streak" style="height: 200px;">
 </p>
 
 ---
 
 #### 💻 Dream it. Chase it. Code it...
-
-
-<!--## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=almkhlafi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-
-
-
- 
----
-[![](https://visitcount.itsvg.in/api?id=Almkhlafi&icon=0&color=0)](https://visitcount.itsvg.in)
-
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--## 📊 GitHub Contributions-->
-
-<!--![Snake animation](https://raw.githubusercontent.com/almkhlafi/almkhlafi/output/github-contribution-grid-snake.svg?raw=true)-->
-
